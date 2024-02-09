@@ -20,6 +20,41 @@
 
  </div>
 
+ <div align="center"> 
+  <a href="mailto:mokonadu9021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mikey-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://Mikey41.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,svelte,nodejs,html,css,vscode,ruby,figma,tailwind,git,rails" />
+    <img src="https://skillicons.dev/icons?i=linux,python,javascript,typescript,figma,vscode,cs,java,wordpress,mysql,blender" /><br>
+</div>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 
@@ -28,7 +63,7 @@
 <img width="47%" src="https://github-readme-streak-stats-mu-ecru.vercel.app?user=Mikey417&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"alt="readme stats" />
 <br/>
 
-<img align= "center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikey41&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+<img align= "center" width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikey41&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
 
 <br/><br/>
